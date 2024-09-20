@@ -1,24 +1,25 @@
-# House Price Prediction
+# House Prices Prediction: Exploratory Data Analysis (EDA)
 
-## Overview
+This project aims to explore the factors influencing house prices using a dataset from Ames, Iowa. With 79 explanatory variables, this dataset offers a comprehensive look at various aspects of residential homes. This first assignment focuses on **exploratory data analysis (EDA)** to understand the structure, distribution, and relationships of the data.
 
-This project is part of a Kaggle competition to predict house prices in Ames, Iowa. While most home buyers might think of bedrooms or picket fences when describing their dream home, this dataset shows that much more influences the final price. With 79 explanatory variables describing almost every aspect of residential homes, the challenge is to predict the final sales price.
+## Dataset Overview
+The dataset used in this project includes detailed information about homes in Ames, Iowa, ranging from basement height to proximity to railroads. Understanding these factors is key to predicting home sale prices.
 
-## Dataset
+For more details about the dataset, visit the competition page on Kaggle:  
+[House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-The dataset includes detailed information on houses sold in Ames, Iowa, with 79 explanatory variables that describe various features of each home. The goal is to predict the sales price of each house based on these features.
+## Objective
+In this first phase, the goal is to perform **exploratory data analysis** to:
+- Understand the distribution and quality of each feature
+- Visualize relationships between key variables
+- Identify missing values and outliers
+- Assess potential features for predictive modeling in future stages
 
-You can find the dataset and competition details here: [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+## Practice Skills
+- Creative feature exploration and visualization
+- Understanding relationships between variables before applying advanced modeling techniques
 
-## Skills Practiced
-
-- **Creative Feature Engineering**: Identifying and creating meaningful features from the dataset to improve model performance.
-- **Advanced Regression Techniques**: Implementing methods such as Random Forest and Gradient Boosting for better accuracy.
-
-## Goal
-
-The objective is to predict the sales price for each house. For each `Id` in the test set, you must predict the `SalePrice`.
-
-## Evaluation Metric
-
-The project is evaluated using the Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted sale price and the logarithm of the observed sale price.
+## Next Steps
+The next steps after this phase will involve:
+- Feature engineering
+- Model development using advanced regression techniques like random forest and gradient boosting
