@@ -1,4 +1,4 @@
-# Company Bankruptcy Prediction Project 
+# Company Bankruptcy Prediction Project: Ensemble Learning Algorithms
 
 ## Project Overview
 
