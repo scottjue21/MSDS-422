@@ -1,4 +1,4 @@
-# Company Bankruptcy Prediction
+# Company Bankruptcy Prediction Project
 
 ## Project Overview
 
