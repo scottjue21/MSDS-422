@@ -24,7 +24,6 @@ In this first phase, the goal is to perform **exploratory data analysis** to:
 The exploratory data analysis provided insights into key factors affecting housing prices in Ames, Iowa. We handled missing data and outliers, identified three strong predictors—OverallQual, GrLivingArea, and GarageCars—and created two new features (total_sq and qual_space) to improve prediction accuracy. This cleaned and transformed dataset will serve as a solid foundation for building predictive models aimed at understanding the drivers of housing prices in the Ames market.
 
 ### Contributors
-
 This project was completed by:
 
 - Scott Jue
