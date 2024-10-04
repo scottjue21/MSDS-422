@@ -38,3 +38,10 @@ ElasticNet combines the strengths of both Lasso and Ridge by applying both L1 an
 ## Conclusion
 Each model offers unique advantages, with Lasso excelling in feature reduction, Ridge performing well with all features included, and ElasticNet balancing both approaches. These models present a strong foundation for improving predictive accuracy in the next phase of the project.
 
+### Contributors
+This project was completed by:
+
+- Scott Jue
+- Zach Watson
+
+
