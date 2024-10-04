@@ -32,3 +32,9 @@ The dataset is available at [Kaggle - Digit Recognizer](https://www.kaggle.com/c
 ## Conclusion
 
 The artificial neural network models significantly improved the accuracy of handwritten digit recognition compared to previous approaches. The best models achieved testing accuracy of up to 0.99 and Kaggle scores as high as 0.973.
+
+### Contributors
+This project was completed by:
+
+- Scott Jue
+- Zach Watson
