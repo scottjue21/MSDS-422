@@ -25,3 +25,9 @@ The dataset is available at [Kaggle - Company Bankruptcy Prediction](https://www
 ## Conclusion
 
 The models show promising results, but potential overfitting was noted. Future work could involve refining feature selection and addressing overfitting.
+
+### Contributors
+This project was completed by:
+
+- Scott Jue
+- Zach Watson
