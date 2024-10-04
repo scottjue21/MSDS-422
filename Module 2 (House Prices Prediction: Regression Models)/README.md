@@ -47,4 +47,7 @@ The final model combines `qual_space` and `GarageCars`. This model produced the 
 Among the models, the **fourth model** using both `qual_space` and `GarageCars` resulted in the best prediction accuracy with the lowest RMSE.
 
 ## Contributors
+This project was completed by:
 
+- Scott Jue
+- Zach Watson
