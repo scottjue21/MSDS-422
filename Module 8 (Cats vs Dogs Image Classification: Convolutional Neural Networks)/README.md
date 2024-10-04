@@ -35,3 +35,10 @@ The final model was used to predict the labels for the Kaggle test dataset, yiel
 
 The CNN models performed well on the training data but struggled to generalize to the test data. The best model achieved an accuracy of 0.744 on the training data but received a relatively low Kaggle score. Future improvements could include additional hyperparameter tuning and more extensive use of regularization techniques to improve generalization.
 
+### Contributors
+This project was completed by:
+
+- Scott Jue
+- Zach Watson
+
+
