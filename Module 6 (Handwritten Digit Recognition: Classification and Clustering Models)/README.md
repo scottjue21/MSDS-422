@@ -41,3 +41,10 @@ Several machine learning models were developed to classify the digit images:
 
 The Random Forest model, both with and without PCA, performed well in classifying handwritten digits, with the best accuracy reaching 96.6%. K-Means clustering, while not as successful, provided an alternative approach to unsupervised learning for this task.
 
+### Contributors
+This project was completed by:
+
+- Scott Jue
+- Zach Watson
+
+
