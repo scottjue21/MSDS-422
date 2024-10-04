@@ -38,18 +38,13 @@ This model introduces a new feature `qual_space`, created by combining the quali
 
 The final model combines `qual_space` and `GarageCars`. This model produced the best fit with the lowest RMSE of **27,481.54**.
 
-### Conclusion
+## Techniques Used
+- Development and evaluation of regression models
+- Model performance assessment using Root Mean Squared Error (RMSE)
+- Feature engineering for improved predictions
+
+## Conclusion
 Among the models, the **fourth model** using both `qual_space` and `GarageCars` resulted in the best prediction accuracy with the lowest RMSE.
 
-## Testing
-The trained model was tested on a Kaggle-provided test set. The following steps were used to prepare the test data:
-1. Handle missing values by replacing NaN values with zero.
-2. Create the `qual_space` predictor variable by multiplying overall quality by the total square footage.
-3. Predict the `SalePrice` for each house using the final regression model.
+## Contributors
 
-The predictions were submitted in a `.csv` file, formatted for Kaggle.
-
-## Practice Skills
-- Regression model development and evaluation
-- Root Mean Squared Error (RMSE) analysis for model performance
-- Feature engineering for improved predictions
