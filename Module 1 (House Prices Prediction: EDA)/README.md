@@ -15,11 +15,17 @@ In this first phase, the goal is to perform **exploratory data analysis** to:
 - Identify missing values and outliers
 - Assess potential features for predictive modeling in future stages
 
-## Practice Skills
-- Creative feature exploration and visualization
-- Understanding relationships between variables before applying advanced modeling techniques
+## Techniques Used
+- Feature engineering and creation of new variables
+- Data visualization to assess variable distributions and relationships
+- Correlation analysis to identify key predictive features
 
-## Next Steps
-The next steps after this phase will involve:
-- Feature engineering
-- Model development using advanced regression techniques like random forest and gradient boosting
+## Conclusion
+The exploratory data analysis provided insights into key factors affecting housing prices in Ames, Iowa. We handled missing data and outliers, identified three strong predictors—OverallQual, GrLivingArea, and GarageCars—and created two new features (total_sq and qual_space) to improve prediction accuracy. This cleaned and transformed dataset will serve as a solid foundation for building predictive models aimed at understanding the drivers of housing prices in the Ames market.
+
+### Contributors
+
+This project was completed by:
+
+- Scott Jue
+- Zach Watson
