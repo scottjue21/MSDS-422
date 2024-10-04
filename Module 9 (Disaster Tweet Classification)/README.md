@@ -36,3 +36,9 @@ The LSTM models showed strong performance on the training data, with Model 1 ach
 
 Both the LSTM and BERT models performed well on the disaster tweet classification task. The LSTM model achieved a Kaggle score of 0.765, while the BERT model achieved 0.831. Future work could involve further tuning of hyperparameters and deeper integration of transformer models for improved results in classifying disaster-related tweets.
 
+### Contributors
+This project was completed by:
+
+- Scott Jue
+- Zach Watson
+
