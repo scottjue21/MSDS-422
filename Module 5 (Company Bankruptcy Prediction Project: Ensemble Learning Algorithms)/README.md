@@ -29,3 +29,9 @@ The dataset is available at [Kaggle - Company Bankruptcy Prediction](https://www
 ## Conclusion
 
 This expanded analysis shows improvement in model performance, with the maximum F1-score increasing from 0.28 to 0.41. Future work may focus on hyperparameter tuning, reintroducing SMOTE, and refining variable selection methods.
+
+### Contributors
+This project was completed by:
+
+- Scott Jue
+- Zach Watson
